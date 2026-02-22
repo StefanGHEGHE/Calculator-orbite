@@ -14,4 +14,4 @@ Nu ai nevoie de librării externe sau dependențe complicate. Folosește doar mo
 
 1. Rulezi scriptul din terminal:
    ```bash
-   python calculator_orbite.py
+   python main.py
